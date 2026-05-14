@@ -1,0 +1,81 @@
+[
+    {
+        "name": "páxinas",
+        "position": "",
+        "items": [
+            {
+                "id": 1778179855338,
+                "label": "biografía",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 6,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1778179865402,
+                "label": "vídeos",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1778179874091,
+                "label": "fotografías",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 8,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1778179881162,
+                "label": "obras",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1778179891137,
+                "label": "xornalismo",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 9,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1778179901950,
+                "label": "legado",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 7,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": ""
+    }
+]

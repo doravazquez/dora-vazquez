@@ -1,0 +1,43 @@
+/* delete white square for texts */
+#main {
+    background: transparent !important;
+    padding: 0 !important;
+}
+
+/* put texts in white */
+body, p, h1, h2, h3, h4, h5, h6, a, span, li {
+  color: #ffffff !important;
+}
+
+.post__inner h2,
+.post__inner strong {
+  color: #ffffff !important;
+}
+
+
+/* delete title square */
+a.logo {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+/* make pie de páxina transparente */
+#copyright li {
+  color: rgba(255, 255, 255, 0.3) !important;
+}
+
+/* delete title in homepage */
+.post .major h1 {
+  display: none !important;
+}
+
+
+article.post {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+#navPanelToggle {
+    display: none !important;
+}
