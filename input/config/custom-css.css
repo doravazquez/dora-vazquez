@@ -41,3 +41,20 @@ article.post {
 #navPanelToggle {
     display: none !important;
 }
+
+/* Añade esto en tu hoja de estilos */
+p {
+  text-align: justify;
+  text-align-last: left;        /* última línea alineada a la izquierda */
+  word-spacing: normal !important;
+  hyphens: auto;                /* añade guiones para cortar palabras largas */
+  -webkit-hyphens: auto;        /* para Safari/iOS */
+  overflow-wrap: break-word;
+}
+
+/* En móvil, mejor quitar el justify directamente */
+@media screen and (max-width: 736px) {
+  p {
+    text-align: center !important;
+  }
+}
